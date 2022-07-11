@@ -5,4 +5,6 @@ po_signaturematrix_expression.txt containes expression values for each gene corr
 
 po_sourceGEP.txt contains gene expression profiles from each stage in the reference. 
 
+randomsampler.R contains R script to generate random mixtures used to make figure 2 and supplemental figure 1. 
+
 Feel free to contact with questions or concerns: kieran.tebben@som.umaryland.edu
